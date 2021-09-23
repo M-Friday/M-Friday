@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M-Friday
+- 👋 Hi, I’m @wheredoyougetoff
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... jS
 - 💞️ I’m looking to collaborate on ... 
