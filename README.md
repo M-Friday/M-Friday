@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wheredoyougetoff
 - 👀 I’m interested in ... frontend development
-- 🌱 I’m currently using ... React, C#, .NET, SQL
+- 🌱 I’m currently using ... React.js, .NET, SQL
 - 📫 How to reach me ... massey.dylan.m@gmail.com
 
 <!---
