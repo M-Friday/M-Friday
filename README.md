@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wheredoyougetoff
-- 👀 I’m interested in ... coding
+- 👀 I’m interested in ... frontend development
 - 🌱 I’m currently using ... React, C#, .NET, SQL
 - 📫 How to reach me ... massey.dylan.m@gmail.com
 
